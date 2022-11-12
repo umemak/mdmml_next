@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@milkdown/core": "^6.5.2",
+    "@milkdown/preset-commonmark": "^6.5.2",
+    "@milkdown/prose": "^6.5.2",
+    "@milkdown/react": "^6.5.2",
+    "@milkdown/theme-nord": "^6.5.2",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
@@ -17,6 +22,7 @@
     "next": "13.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-midi-player": "^1.0.5",
     "typescript": "4.8.4"
   }
 }
